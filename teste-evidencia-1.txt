@@ -1,0 +1,1 @@
+Primeiro arquivo na barriga do conteiner, versionado no repositorio nginx-conteiner-intergration-test
